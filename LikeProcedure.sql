@@ -6,5 +6,5 @@ SELECT *FROM urun WHERE u_ad LIKE '%'+@kriter+'%'
 EXEC urunbul 'm'
 
 #Marketim=database name
-urunbul=stored procedure name
-urun=table name
+#urunbul=stored procedure name
+#urun=table name
